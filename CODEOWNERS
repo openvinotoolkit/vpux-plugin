@@ -71,10 +71,10 @@
 /tests/functional/shared_tests_instances/subgraph_tests @openvinotoolkit/vpux-tests-subgraph-maintainers
 /tests/functional/single_layer_tests @openvinotoolkit/vpux-tests-layer-maintainers
 /tests/functional/subgraph_tests @openvinotoolkit/vpux-tests-subgraph-maintainers
-#
+
 /tests/libs @openvinotoolkit/vpux-tests-infra-maintainers
 /tests/lit @openvinotoolkit/vpux-mlir-compiler-maintainers
-#
+
 /tests/unit/frontend_mcm @openvinotoolkit/vpux-mcm-compiler-maintainers
 /tests/unit/hddl2_tests @openvinotoolkit/vpux-plugin-hddl2-backend-maintainers
 /tests/unit/kmb @openvinotoolkit/vpux-plugin-owners
